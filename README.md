@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently in the process of transferring my university and personal projects from my private student GitHub account to this new personal account.
+
+I'm always open to connecting with fellow developers, students, and industry professionals. Feel free to reach out and say hi!
+
 <!--
 **adamhabdank/adamhabdank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
